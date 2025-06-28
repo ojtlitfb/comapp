@@ -5,6 +5,4 @@ markdown test
 
 ## License
 
-<u>
-Copyright (C) 2025 comapp. All Rights Reserved.
-</u>
+####Copyright (C) 2025 comapp. All Rights Reserved.
