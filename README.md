@@ -3,6 +3,5 @@
 ## About
 
 ## License
-<div style="align:center">
+<img src="a.png" alt="a">
 Copyright (C) 2025 comapp. All Rights Reserved.
-</div>
