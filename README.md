@@ -1,6 +1,5 @@
-<center>
+{: align="center"}
 # Com App Test
-</center>
 
 ## About
 
