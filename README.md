@@ -5,6 +5,6 @@ markdown test
 
 ## License
 
-<center>
+<div style="text-align:center">
 Copyright (C) 2025 comapp. All Rights Reserved.
-</center>
+</div>
