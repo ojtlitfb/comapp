@@ -5,4 +5,4 @@ markdown test
 
 # License
 
-#### Copyright (C) 2025 [comapp](https://github.com/ojtlitfb/comapp). All Rights Reserved.
+#### Copyright (C) 2025 [ojtlitfb](https://github.com/ojtlitfb). All Rights Reserved.
