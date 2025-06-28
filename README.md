@@ -1,8 +1,8 @@
 # Com App Test
 markdown test
 
-## About
+# About
 
-## License
+# License
 
-#### Copyright (C) 2025 comapp. All Rights Reserved.
+# Copyright (C) 2025 comapp. All Rights Reserved.
